@@ -31,3 +31,4 @@ pendo.initialize({
 		// as long as it's not one of the above reserved names.
 	}
 });
+pendo.enableDebugging()	;
