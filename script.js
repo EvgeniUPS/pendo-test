@@ -9,7 +9,7 @@ console.log('Pendo-test');
 // Please use Strings, Numbers, or Bools for value types.
 pendo.initialize({
 	visitor: {
-		id:              'VISITOR-UNIQUE-ID'   // Required if user is logged in, default creates anonymous ID
+		id:              '_PENDO_T_Jf4Y8ajJBK7'   // Required if user is logged in, default creates anonymous ID
 		// email:        // Recommended if using Pendo Feedback, or NPS Email
 		// full_name:    // Recommended if using Pendo Feedback
 		// role:         // Optional
